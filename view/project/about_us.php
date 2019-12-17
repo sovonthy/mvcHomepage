@@ -5,7 +5,7 @@
   <div class="container">
   <div class="row">
              <div class="col-6">
-                <img src="image/foot.jpg" alt="Avatar" class="img-fluid" width="50%">   
+                <img src="image/foot.jpg" class="img-fluid" width="50%">   
              </div>
              <div class="col-6">
                 <h1>Our mission</h1>
